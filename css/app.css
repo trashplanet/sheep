@@ -1,0 +1,16 @@
+section#hero {
+	height: 100vh;
+	display: table;
+	width: 100%;
+}
+section#hero .hero-inner {
+	display: table-cell;
+	vertical-align: middle;
+}
+.hero-title {
+	color: #ef3d31;
+}
+.hero-tagline {
+	color: #ef3d31;
+	font-size: 1.382rem;
+}
